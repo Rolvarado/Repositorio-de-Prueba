@@ -1,3 +1,3 @@
 Este es el archivo 1
 Este es un cambio en el archivo 1
-Línea nueva en archivo 1 desde main
+Mejor alternativa en archivo 1 desde probando_checkout
